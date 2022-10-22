@@ -2,7 +2,7 @@
 
 #### Resources
  - [Computer Vision for Building Damage Assessment](https://xview2.org/)
-	xView2 dataset
+	xView2 challenge dataset - xBD
  - [xBD: A Dataset for Assessing Building Damage from Satellite Imagery](https://arxiv.org/abs/1911.09296)
 	Paper on the xBD dataset
  - [xView2 Baseline Github](https://github.com/DIUx-xView/xView2_baseline)
